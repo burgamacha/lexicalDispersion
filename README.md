@@ -1,4 +1,4 @@
-# Project Name
+# Lexical Dispersion for Business Insights
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -11,15 +11,18 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![MIT License][license-shield]][license-url]
-[![MIT License][blog-shield]][blog-url]
+[![Medium Post][blog-shield]][blog-url]
+
 <!-- ABOUT THE PROJECT -->
 ## About the Project
 
-Description of what the project accomplishes
+This is the code accompanying my medium post on lexical dispersion. 
 
 ## Usage
 
-How to use this tool. How not to use this tool.
+Feel free to utilize this cost to pull simple insights from text. This is a baby-step toward NLP, but still incredibly useful for answering stakeholder questions about THINGS (not topics) that people mention in posts. 
+
+There is plenty of optimization to be done here. In practice, one thing I typically do is lemmatize my text and keywords, which increases the accuracy of identify bathroom issues based on all three of toilets, toilet, and toiletry (where my root word was just 'toilet'). 
 
 <!-- Contributing will never change! -->
 
@@ -45,4 +48,4 @@ Contributions are what make the open source community such an amazing place to b
 [license-shield]: https://img.shields.io/github/license/burgamacha/CVS-vaccine-checker.svg?style=for-the-badge
 [license-url]: https://github.com/burgamacha/CVS-vaccine-checker/blob/master/LICENSE.txt
 [blog-shield]: https://img.shields.io/badge/medium-Read%20about%20this%20on%20Medium-lightgrey.svg?style=for-the-badge
-[blog-url]: https://python.plainenglish.io/how-i-built-a-cvs-vaccine-appointment-availability-checker-in-python-6beb379549e4
+[blog-url]: https://medium.com/analytics-vidhya/simple-online-review-text-analytics-for-beginners-using-python-c78d34927644
