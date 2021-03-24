@@ -39,13 +39,13 @@ Contributions are what make the open source community such an amazing place to b
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- NOTE: Use the ?style=for-the-badge to get the cool blocky style
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/burgamacha/CVS-vaccine-checker.svg?style=for-the-badge
-[contributors-url]: https://github.com/burgamacha/CVS-vaccine-checker/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/burgamacha/CVS-vaccine-checker.svg?style=for-the-badge
-[forks-url]: https://github.com/burgamacha/CVS-vaccine-checker/network/members
-[stars-shield]: https://img.shields.io/github/stars/burgamacha/CVS-vaccine-checker.svg?style=for-the-badge
-[stars-url]: https://github.com/burgamacha/CVS-vaccine-checker/stargazers
-[license-shield]: https://img.shields.io/github/license/burgamacha/CVS-vaccine-checker.svg?style=for-the-badge
-[license-url]: https://github.com/burgamacha/CVS-vaccine-checker/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/burgamacha/lexicalDispersion.svg?style=for-the-badge
+[contributors-url]: https://github.com/burgamacha/lexicalDispersion/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/burgamacha/lexicalDispersion.svg?style=for-the-badge
+[forks-url]: https://github.com/burgamacha/lexicalDispersion/network/members
+[stars-shield]: https://img.shields.io/github/stars/burgamacha/lexicalDispersion.svg?style=for-the-badge
+[stars-url]: https://github.com/burgamacha/lexicalDispersion/stargazers
+[license-shield]: https://img.shields.io/github/license/burgamacha/lexicalDispersion.svg?style=for-the-badge
+[license-url]: https://github.com/burgamacha/lexicalDispersion/blob/master/LICENSE.txt
 [blog-shield]: https://img.shields.io/badge/medium-Read%20about%20this%20on%20Medium-lightgrey.svg?style=for-the-badge
 [blog-url]: https://medium.com/analytics-vidhya/simple-online-review-text-analytics-for-beginners-using-python-c78d34927644
